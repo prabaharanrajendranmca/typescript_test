@@ -1,3 +1,7 @@
+// Author- Prabaharan Rajendran
+// Date- 20-09-2024
+// Version 1.0.0
+
 export function checkNumberPadding(intStrs: string[]): number {
     // Return 0 for empty input
     if (intStrs.length === 0) return 0;

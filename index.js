@@ -1,4 +1,7 @@
 "use strict";
+// Author- Prabaharan Rajendran
+// Date- 20-09-2024
+// Version 1.0.0
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.checkNumberPadding = checkNumberPadding;
 function checkNumberPadding(intStrs) {
